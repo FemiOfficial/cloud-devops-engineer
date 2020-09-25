@@ -1,4 +1,4 @@
-# Cloud Devops Engineer on Udacity
+# Cloud Devops Engineer
 Repository for all projects completed during my Cloud DevOps Engineer Journey on Udacity
 
 
